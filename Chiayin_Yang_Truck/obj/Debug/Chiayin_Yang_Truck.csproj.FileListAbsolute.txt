@@ -1,0 +1,10 @@
+C:\Users\Chiayin\source\repos\Programming Concept II\Chiayin_Yang_Truck\Chiayin_Yang_Truck\bin\Debug\Chiayin_Yang_Truck.exe.config
+C:\Users\Chiayin\source\repos\Programming Concept II\Chiayin_Yang_Truck\Chiayin_Yang_Truck\bin\Debug\Chiayin_Yang_Truck.exe
+C:\Users\Chiayin\source\repos\Programming Concept II\Chiayin_Yang_Truck\Chiayin_Yang_Truck\bin\Debug\Chiayin_Yang_Truck.pdb
+C:\Users\Chiayin\source\repos\Programming Concept II\Chiayin_Yang_Truck\Chiayin_Yang_Truck\obj\Debug\Chiayin_Yang_Truck.csproj.AssemblyReference.cache
+C:\Users\Chiayin\source\repos\Programming Concept II\Chiayin_Yang_Truck\Chiayin_Yang_Truck\obj\Debug\Chiayin_Yang_Truck.Properties.Resources.resources
+C:\Users\Chiayin\source\repos\Programming Concept II\Chiayin_Yang_Truck\Chiayin_Yang_Truck\obj\Debug\Chiayin_Yang_Truck.Truck.resources
+C:\Users\Chiayin\source\repos\Programming Concept II\Chiayin_Yang_Truck\Chiayin_Yang_Truck\obj\Debug\Chiayin_Yang_Truck.csproj.GenerateResource.cache
+C:\Users\Chiayin\source\repos\Programming Concept II\Chiayin_Yang_Truck\Chiayin_Yang_Truck\obj\Debug\Chiayin_Yang_Truck.csproj.CoreCompileInputs.cache
+C:\Users\Chiayin\source\repos\Programming Concept II\Chiayin_Yang_Truck\Chiayin_Yang_Truck\obj\Debug\Chiayin_Yang_Truck.exe
+C:\Users\Chiayin\source\repos\Programming Concept II\Chiayin_Yang_Truck\Chiayin_Yang_Truck\obj\Debug\Chiayin_Yang_Truck.pdb
