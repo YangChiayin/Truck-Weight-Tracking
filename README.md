@@ -1,5 +1,5 @@
 # Truck Weight Tracking Application
-<img src="https://github.com/user-attachments/assets/def04b67-a9ab-4aaa-aa0e-6b2b4c5d9fc0](https://github.com/user-attachments/assets/0e408c5d-6fe9-4d09-b17a-75f74ef7e103" width="500" />
+<img src="https://github.com/user-attachments/assets/334154f4-fa41-475e-be96-e742c85eb136" width="500" />
 
 This application is designed to manage and track truck weight records. It allows users to add, validate, and display truck weight records, ensuring all the necessary information is properly recorded, such as truck IDs, gross weights, tare weights, and dates. The application uses **C# with a WinForms interface**.
 
